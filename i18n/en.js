@@ -1,0 +1,1 @@
+"use strict";module.exports={description:"TextMeshPro Font Tool",show_log:"Output log"};

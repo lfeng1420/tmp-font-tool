@@ -1,0 +1,1 @@
+"use strict";module.exports={description:"TextMeshPro字体工具",show_log:"输出日志"};
